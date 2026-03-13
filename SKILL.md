@@ -1,6 +1,6 @@
 ---
 name: content-hunter
-description: 内容捕手 (Content Hunter) - 短视频平台热门内容抓取机器人。自动刷小红书、抖音，B站3个平台，每次每平台抓取40条热门内容并保存，晚上8点生成汇报。/Content Hunter - Hot content crawler for Xiaohongshu, Douyin, Bilibili. Scrapes 40 items per platform and generates daily report at 8 PM.
+description: 内容捕手 (Content Hunter) - 短视频平台热门内容抓取机器人。支持小红书、抖音、B站，可分批抓取热门内容并自动生成汇报。/Content Hunter - Hot content crawler for Xiaohongshu, Douyin, Bilibili. Supports batch scraping and scheduled reporting.
 ---
 
 # 内容捕手 / Content Hunter
